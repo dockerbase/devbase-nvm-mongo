@@ -39,4 +39,7 @@ This repository contains **Dockerbase** of [Devbase-nvm-mongo](https://github.co
     CoffeeScript version 1.8.0
     forever:v0.13.0
     mongodb version v2.4.9
-    Wed Nov 12 21:56:28.359 git version: nogitversion
+    Wed Nov 12 22:46:59.647 git version: nogitversion
+    java version "1.8.0_20"
+    Java(TM) SE Runtime Environment (build 1.8.0_20-b26)
+    Java HotSpot(TM) 64-Bit Server VM (build 25.20-b23, mixed mode)
